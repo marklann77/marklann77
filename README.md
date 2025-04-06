@@ -1,4 +1,4 @@
-## Hi there 👋
+## Little bit of everything, whole lot of nothing
 
 As a multidisciplinary environmental and media professional, I’m passionate about clean energy, sustainable development, and equity. Currently, I serve as an ORISE Fellow with the U.S. Department of Energy's State and Community Energy Programs (SCEP), helping communities advance their clean energy transitions. I've previously worked with organizations like NASA DEVELOP, Southface Energy Institute, and the U.N. RCE Greater Atlanta. During graduate school, I helped research controlled-environment agriculture systems with the Nutrient Energy Water Center for AgTech.
 
