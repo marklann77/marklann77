@@ -1,5 +1,7 @@
 ## Little bit of everything, whole lot of nothing
 
+I’m building a career at the intersection of geospatial development, remote sensing, and data visualization — creating tools and visuals that make complex data accessible and actionable. My current focus includes working with Google Earth Engine, GIS, and Python to integrate satellite imagery and spatial datasets into interactive web applications and compelling visual stories.
+
 As a multidisciplinary environmental and media professional, I’m passionate about clean energy, sustainable development, and equity. Currently, I serve as an ORISE Fellow with the U.S. Department of Energy's State and Community Energy Programs (SCEP), helping communities advance their clean energy transitions. I've previously worked with organizations like NASA DEVELOP, Southface Energy Institute, and the U.N. RCE Greater Atlanta. During graduate school, I helped research controlled-environment agriculture systems with the Nutrient Energy Water Center for AgTech.
 
 My media journey began as an intern for NPR Atlanta. I later became a conference fellow for the Society of Environmental Journalists 2022 and a participant for the Institute of Journalism and Natural Resources. I also directed a documentary on Atlanta’s gentrification, which was nominated for a 2022 Southeast Emmy, and I recently contributed as an associate producer on a documentary about the 1996 Atlanta Olympics. Today, I write for the Saporta Report, where I cover issues close to my heart and my city.
