@@ -11,7 +11,7 @@ Atlanta’s legacy of both inequity and resilience has shaped me. My work — wh
 - 🔭 I’m currently working on building my skills in data visaulization
 - 🌱 I’m currently learning HTML, CSS, Javascript and Python
 - 📫 How to reach me: message me on LinkedIn!
-- ⚡ Fun fact: I am born and raised in Atlanta, GA of Jamaican and Colombian descent
+- ⚡ Fun fact: I was born and raised in Atlanta, GA of Jamaican and Colombian descent
 - 👯 I’m looking to collaborate on projects dealing with geospatial data, remote sensing of mangroves, agricultural monitoring, vertical farming systems, or solar PV system system modeling
 
 <!--
