@@ -1,3 +1,5 @@
+![My World](github_banner.png)
+
 # Hi, I'm Mark Lannaman 🌎🛰️
 **Geospatial Engineer | Environmental Storyteller | Clean Energy Advocate**
 
