@@ -28,14 +28,6 @@ I transform complex satellite data into interactive tools and compelling visual 
 
 ---
 
-### Let's Collaborate
-I’m looking to partner on projects including (but not limited to):
-* **Mangrove Remote Sensing** & Blue Carbon sequestration.
-* **Solar PV Modeling** & Microgrid feasibility.
-* **Vertical Farming** & Sustainable food systems.
-
----
-
 ### More About Me
 * **Heritage:** Born and raised in Atlanta; Jamaican and Colombian descent.
 * **Loyalty:** Die-hard **New York Knicks** fan. If I can stick with them through a 17-win season, I can see any project through to the finish line.
@@ -44,4 +36,4 @@ I’m looking to partner on projects including (but not limited to):
 
 ---
 
-**[Message me on LinkedIn](https://www.linkedin.com/in/mark-lannaman-177551184/) to talk shop.**
+**[Message me on LinkedIn](https://www.linkedin.com/in/mark-lannaman-177551184/) to talk! **
