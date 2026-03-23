@@ -1,7 +1,7 @@
 ![My World](github_banner.png)
 
 # Hi, I'm Mark Lannaman 🌎🛰️
-**Geospatial Engineer | Environmental Storyteller | Clean Energy Advocate**
+**Geospatial Data  | Environmental Storyteller | Clean Energy Advocate**
 
 I transform complex satellite data into interactive tools and compelling visual stories to advance energy equity and sustainable development.
 
@@ -9,15 +9,15 @@ I transform complex satellite data into interactive tools and compelling visual 
 
 ### Tech Stack
 * **Geospatial:** Google Earth Engine (GEE), QGIS, Remote Sensing, Spatial Data Viz.
-* **Programming:** Python (Panel, Pandas, NumPy), JavaScript (GEE API).
-* **Domains:** Renewable Energy Modeling, Mangrove Monitoring, AgTech (CEA Systems).
+* **Programming:** Python (Panel, pandas, numpy, geemap, leafmap); JavaScript (GEE).
+* **Domains:** Renewable Energy Microgrids (solar), Environmental Monitoring, AgTech (CEA Systems).
 
 ---
 
 ### Professional Impact
 * **ORISE Fellow** | *U.S. Department of Energy (DOE)*: Advancing community-led clean energy transitions and equity.
-* *NASA DEVELOP*: Leveraging Earth observations for regional sustainability.
-* **NEW Center for AgTech**: Researching controlled-environment agriculture (CEA) systems.
+* **NASA DEVELOP**: Leveraged Earth observations for regional sustainability.
+* **NEW Center for AgTech**: Researched controlled-environment agriculture (CEA) systems.
 
 ---
 
