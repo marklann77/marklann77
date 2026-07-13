@@ -20,5 +20,3 @@ I was born and raised in Metro Atlanta, of Jamaican and Colombian descent; I cur
 
 [Message me on LinkedIn](https://www.linkedin.com/in/mark-lannaman-177551184/) to talk! 
 
-![My World](my_world_map.gif)
-
