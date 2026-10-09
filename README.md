@@ -18,5 +18,7 @@ I'm also a multimedia storyteller, having earned my B.A. in Journalism from Geor
 ### More About Me
 I was born and raised in Metro Atlanta, of Jamaican and Colombian descent; I currently live in New York City. I'm also a die-hard New York Knicks fan, having stuck with them through multiple 17-win seasons. Rest aasured, if I can stand by them through the hard time, I can see any project through to the finish line.
 
+Edit: The New York Knicks have won the 2026 NBA Championship after 53 years. I think this proves that when I support a cause, success is inevitable. 
+
 [Message me on LinkedIn](https://www.linkedin.com/in/mark-lannaman-177551184/) to talk! 
 
